@@ -1,0 +1,30 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+
+# Build outputs
+**/bin/
+**/obj/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Node / React
+node_modules/
+build/
+dist/
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+
+# Misc
+.DS_Store
+Thumbs.db
